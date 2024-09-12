@@ -1,5 +1,5 @@
 # test-with-pygame
- rotate the camera in a 2D scene, with arrow keys
+ move the camera in a 2D scene, with arrow keys
  
  # pip install pygame
 
