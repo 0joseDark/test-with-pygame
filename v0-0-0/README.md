@@ -1,5 +1,5 @@
 # test-with-pygame
- move the camera in a 3D scene, with arrow keys
+ a simulator 3D
  
  # pip install pygame pybullet
  # pip install PyOpenGL PyOpenGL_accelerate
